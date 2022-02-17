@@ -1,5 +1,7 @@
 # UnSplash_Downloader
-Downloading images from UnSplash in Python
+UnSplash is a website with lots of cool images, with a liscence meaning that anyone can use the images
+
+This repo has some very simple code for downloading images from UnSplash using Python
 
 This did not require as much code as I thought it would... But useful none the less
 
